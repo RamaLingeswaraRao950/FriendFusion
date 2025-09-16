@@ -24,28 +24,28 @@ Calculate your friendship score with animations 🎉, sound effects 🔊, and he
 - Python 3.7+
 - Libraries :
   
-        - tkinter (built-in)
-        - playsound 🔊 (for sound effects)
+      - tkinter (built-in)
+      - playsound 🔊 (for sound effects)
 
-  ### ⚡ How It Works :--
+### ⚡ How It Works :--
 
-  1. Enter names 📝
-  2. Click "Calculate Score 💖"
-  3. See your friendship percentage displayed with :
+1. Enter names 📝
+2. Click "Calculate Score 💖"
+3. See your friendship percentage displayed with :
 
-                                           - Fun messages 🎯
-                                           - Advice 💡
-                                           - Animated effects 🎉💖
+       - Fun messages 🎯
+       - Advice 💡
+       - Animated effects 🎉💖
 
-  4. Enjoy the confetti and sounds if you score high! 🚀
+4. Enjoy the confetti and sounds if you score high! 🚀
 
-  ### 🌟 Friendship Levels :--
+### 🌟 Friendship Levels :--
 
-  - 💯 Perfect Match (80%) – Confetti + Cheer sound 🎊
-  - 🔥 Strong Bond (>60%) – “Made for each other!” vibes
-  - 😊 Great Vibes (>40%) – Fun & warm connection
-  - 🤔 Needs Effort (>20%) – Grow the bond
-  - 😅 Opposites Attract – Still a chance !
+- 💯 Perfect Match (80%) – Confetti + Cheer sound 🎊
+- 🔥 Strong Bond (>60%) – “Made for each other!” vibes
+- 😊 Great Vibes (>40%) – Fun & warm connection
+- 🤔 Needs Effort (>20%) – Grow the bond
+- 😅 Opposites Attract – Still a chance !
 
 ### 🛠️ Future Improvements :--
 
@@ -55,4 +55,4 @@ Calculate your friendship score with animations 🎉, sound effects 🔊, and he
 
 🤝 Contributions are welcome !
 
-💖 Celebrate friendship, spread smiles, and enjoy the magic with FriendFusion! 💖
+💖 Celebrate friendship, spread smiles, and enjoy the magic with FriendFusion ! 💖
