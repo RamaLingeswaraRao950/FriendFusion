@@ -5,7 +5,7 @@ Calculate your friendship score with animations 🎉, sound effects 🔊, and he
 
 ### ✨ Features :--  
 
-- 🔗 **Friendship Score Calculator** – Enter two names to see how strong the bond is  
+- 🔗 **Friendship Score Calculator** – Enter names to see how strong the bond is  
 - 🎭 **Dynamic Messages & Advice** – Get fun, themed responses based on your score  
 - 🎉 **Special Confetti Animation** – Celebrate perfect matches with explosions of joy  
 - 💖 **Falling Hearts Background** – Continuous floating hearts to set the vibe  
@@ -37,7 +37,7 @@ Calculate your friendship score with animations 🎉, sound effects 🔊, and he
        - Advice 💡
        - Animated effects 🎉💖
 
-4. Enjoy the confetti and sounds if you score high! 🚀
+4. Enjoy the confetti and sounds if you score high ! 🚀
 
 ### 🌟 Friendship Levels :--
 
